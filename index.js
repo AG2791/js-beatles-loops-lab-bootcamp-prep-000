@@ -14,7 +14,7 @@ function johnLennonFacts(facts) {
     listoffacts.push(facts[i] + '!!!'); i++;
   }
   
-}
+
 
   
   
