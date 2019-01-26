@@ -19,12 +19,9 @@ function iLoveTheBeatles(n) {
   var e-array =[]
   do {
     e-array.push('I love the Beatles!') n++;
-  } while (n < 17);
+  } while (n < 1);
   return e-array;
 }
-  
-  
-  
   
   
   return listoffacts;
