@@ -14,6 +14,8 @@ function johnLennonFacts(facts) {
     listoffacts.push(facts[i] + '!!!'); i++;
   }
   
+  return listoffacts;
+
 
 function iLoveTheBeatles(n) {
   var e-array =[]
@@ -24,5 +26,4 @@ function iLoveTheBeatles(n) {
 }
   
   
-  return listoffacts;
-}
+
