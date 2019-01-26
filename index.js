@@ -15,7 +15,7 @@ function johnLennonFacts(facts) {
   }
   
 
-function iLoveThe Beatles(n) {
+function iLoveTheBeatles(n) {
   var earray =[]
   do {
     earray.push('I love the Beatles!') n++;
