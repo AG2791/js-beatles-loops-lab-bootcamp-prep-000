@@ -10,7 +10,7 @@ return array;
 function johnLennonFacts(facts) {
   var listoffacts=[];
   var i = 0
-  while (i < facts.length,i++){
-    listoffacts.push(facts[i] + '!!!')
+  while (i < facts.length){
+    listoffacts.push(facts[i] + '!!!'); i++;
   }
 }
